@@ -28,4 +28,6 @@ Then follow this workflow **in order — do NOT skip step 2**:
 5. If the user provided a prompt/question, answer it based on the video content.
 6. If no prompt was provided, give a comprehensive summary of what happens in the video.
 
+7. **Leo Mode auto-trigger:** If the video is short-form (< 3 min) in the fitness / sport / coaching / S&C sector, automatically apply Leo Mode analysis from the `video-perception` skill after the summary — no user request needed.
+
 If `video_watch` fails with a setup error, call `video_setup` first, then retry.

@@ -1,7 +1,7 @@
 {
-  "name": "claude-video-vision",
-  "description": "Give Claude the ability to watch and understand videos — extracts frames and audio for full video perception",
-  "version": "1.2.0",
+  "name": "claude-video-vision-leonny",
+  "description": "Video analysis plugin customized for Leonardo Benedetti — hook detection, TOFU/MOFU/BOFU classification, S&C tennis/padel content analysis",
+  "version": "1.2.0-leo",
   "author": {
     "name": "Jordan Vasconcelos",
     "url": "https://github.com/jordanrendric"

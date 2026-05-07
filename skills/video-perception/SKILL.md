@@ -86,3 +86,70 @@ You receive:
 - **Analysis data** — scene changes, silence intervals, motion levels, etc.
 
 Combine all sources to form a complete understanding. Use analysis + transcription to guide where you look visually. The analysis tells you WHEN things happen; the frames tell you WHAT happens.
+
+---
+
+## Leo Mode — Analisi Content Tennis/Padel
+
+Attiva automaticamente quando il video è un reel/short-form (< 3 min) nel settore fitness/sport/coaching/S&C.
+
+### Hook Analysis (frame 0–3s)
+
+Classifica il tipo di hook:
+
+| Tipo | Pattern |
+|------|---------|
+| Problema fisico diretto | "Il gomito ti fa male..." / "Le gambe cedono..." |
+| Negazione scusa | "Non è questione di testa..." |
+| Comportamento rispecchiato | "Hai salvato 47 reel..." |
+| Situazione cinematica | "9-8 al tie break, le gambe..." |
+| Dato/statistica | "Il 30% dei tennisti..." / numero reale |
+| Promessa controintuitiva | "Il terzo set si vince in palestra..." |
+| Tutorial concreto | "3 cose che fai in palestra..." |
+
+Score hook 1–10: 10 = pronunciabile in ≤3s, specifico, no clickbait, promessa mantenuta.
+
+### Funnel Classification (TOFU/MOFU/BOFU)
+
+- **TOFU** — awareness, problema generico, reach massima, no offerta
+- **MOFU** — soluzione specifica, confronto, considerazione, valore educativo
+- **BOFU** — offerta esplicita, CTA diretta, conversione, DM/link
+
+### CTA Effectiveness
+
+Identifica: tipo (parola chiave / salva / DM / follow / link bio / assente) + posizione (inizio / metà / fine) + chiarezza (esplicita / implicita).
+
+### Lead Gen Score (1–10)
+
+Basato su: hook strength × funnel fit × CTA clarity × informational value.
+
+### S&C Content Quality (solo video tecnici con esercizi)
+
+- Forma tecnica corretta negli esercizi mostrati
+- Terminologia anatomica appropriata (es. "quadricipiti" non "gambe")
+- Specificità tennis/padel vs. generica (transfer dichiarato?)
+- Presenza dati/PMID vs. affermazioni non supportate
+
+### Output Format Leo
+
+Restituisci SEMPRE in questo formato quando Leo Mode attivo:
+
+```
+**HOOK:** [tipo] — "[citazione esatta o 'solo visivo']" — Score: X/10
+**FORMATO:** [talking head / tutorial / lista / B-roll / demo esercizio / carosello-reel]
+**DURATA:** Xs — **AUDIO:** [voce / musica / silenzio / mix]
+**FUNNEL:** TOFU / MOFU / BOFU — [1 frase motivazione]
+**CTA:** "[testo esatto]" — Tipo: [keyword / salva / DM / assente]
+**LEAD GEN SCORE:** X/10
+
+**Punti di forza:**
+- [max 3 bullet concreti]
+
+**Miglioramenti:**
+1. [specifico e actionable]
+2. [specifico e actionable]
+3. [specifico e actionable]
+
+**Per Leo (adatta questo angle):**
+[Come Leo può usare format/angle con brand voice Leo, target Matteo (24y agonista) o Andrea (over35)]
+```
